@@ -62992,7 +62992,7 @@ r[q]=new A.hw(p.c,p.d,n)}return new A.u4(s,o.c,new A.A8(new A.bY(B.A6,A.hU(r,B.c
 A.rg.prototype={
 ae(){return new A.HA(B.m)}}
 A.HA.prototype={
-L(a){var s=null,r=A.bc(a,s,t.w).w.a.a<800?A.R(a).p2.a.Hp(50):A.R(a).p2.a,q=t.p
+L(a){var s=null,r=A.bc(a,s,t.w).w.a.a<800?A.R(a).p2.a.Hp(45):A.R(a).p2.a,q=t.p
 return A.hU(A.c([new A.bY(new A.at(0,0,0,39),B.yn,s),new A.bY(new A.at(0,0,0,39),A.lW(A.a7P(s,s,B.bV,s,s,!0,s,A.ov(A.c([A.ov(s,A.R(a).p2.a.cT(B.b6)," Flutter")],t.Fe),r,"Ol\xe1, sou o Weberth Erik, Desenvolvedor Mobile|Web"),B.dz,s,s,B.aa,B.av),s,656),s),new A.bY(new A.at(0,0,0,20),A.lW(A.dh("Ol\xe1 pessoal, sou formado em Sistemas de Informa\xe7\xe3o pela Universidade Estadual do Tocantins - UNITINS, tenho como principal foco o desenvolvimento m\xf3vel e web, tenho conhecimento em Flutter, Laravel e Django. Trabalhei em projetos significativos, como o UNITINSRECICLA e o novo Portal da Transpar\xeancia no MPTO, e atualmente sou Desenvolvedor Flutter terceirizado para o Minist\xe9rio P\xfablico do Tocantins. Estou sempre em busca de novos desafios no desenvolvimento de software.",A.R(a).p2.z,B.dz),s,656),s),new A.bY(new A.at(0,0,0,20),A.lW(A.Fj(B.OA,A.c([new A.mI("Entrar em contato",B.i,B.bi,new A.a1T(),s),new A.mI("Download CV",B.I,B.i,new A.a1U(),s)],q),29,20),s,656),s)],q),B.ac,B.a1)}}
 A.a1T.prototype={
 $0(){var s=$.a9G()
