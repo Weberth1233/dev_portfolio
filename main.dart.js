@@ -62940,7 +62940,7 @@ p=o}else{p=A.a6C(r,B.jZ,r,r,r,r,r,r,r,r,r,r,r,r,r)
 s=o.gIX()
 o=A.EK(r,o.gJs(),o.gAK(),s,r,r,r,r,r,r,r,r,r,o.gAP(),r)
 o=A.a83(p,B.a4,B.yJ,new A.lt(A.z2(r,r,r,new A.bw(B.i,n),r,r,r,r,new A.bw(B.b7,n),r,r,r,r,r,r,r,r,r,new A.bw(new A.bc(B.i,1,B.J,-1),m),r,r,r,r,r)),B.b7,r,o,r)
-p=o}return new A.ll(new A.BY(q,r),"Meu portifolio",p,!1,r)},
+p=o}return new A.ll(new A.BY(q,r),"Meu portf\xf3lio",p,!1,r)},
 $S:379}
 A.BY.prototype={
 M(a){var s=null,r=$.agZ(),q=$.ah5(),p=$.ah4(),o=$.ah6(),n=$.ah7(),m=$.a9F(),l=this.c
@@ -62980,7 +62980,7 @@ r.f.LX(A.acA(s,s,s,B.aP,s,B.aO,s,B.Ny,s,B.A9,s,s,s,s,s,s,s,s,s))},
 $S:0}
 A.AW.prototype={
 M(a){var s,r,q,p=this,o=null,n=A.c([new A.eb("Home",p.e,o),new A.eb("Conhecimentos",p.f,o),new A.eb("Projetos",p.r,o),new A.eb("Experi\xeancias",p.w,o),new A.eb("Contatos",p.x,o)],t.f_)
-if(A.ba(a,o,t.w).w.a.a<800){s=A.dh("Portifolio Weberth",A.R(a).p2.Q.qM(B.cS),o)
+if(A.ba(a,o,t.w).w.a.a<800){s=A.dh("Portf\xf3lio Weberth",A.R(a).p2.Q.qM(B.cS),o)
 r=p.y
 q=r.a.a?B.kA:B.kz
 q=A.c([A.Si(r.gZ3(),q)],t.p)
